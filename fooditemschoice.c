@@ -17,7 +17,7 @@ case 3:
 printf("Food item - Pizza\nPrice - 130");
 break;
 
-case4:
+case 4:
 printf("Food item - Pastry\nPrice - 150");
 break;
 
